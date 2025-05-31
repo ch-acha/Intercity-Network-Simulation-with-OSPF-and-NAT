@@ -51,6 +51,8 @@ Once OSPF was set up, connectivity was tested using `ping` from one city's route
 
 After setting up and testing the backbone network, private company networks were added to simulate business use cases.
 
+[HomeCity Configuration](homecity.md)
+
 ---
 
 #### 🏠 Berinda's Company (HomeCity)
