@@ -14,6 +14,10 @@ This project simulates a **multi-city enterprise network** using **Cisco Packet 
 
 Each city has a dedicated router and internal LAN. The routers are connected using **fiber optic links**, simulating a real-world ISP backbone.
 
+
+![Network Topology](Logical_Topology.png)
+
+
 ---
 
 ## 🛠️ Step-by-Step Setup
